@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+
+class cabbage{
+  int health;
+  int water;
+  int food;
+  int beauty;
+  int hi;
+};
